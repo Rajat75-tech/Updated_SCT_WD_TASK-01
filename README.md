@@ -44,10 +44,11 @@ To run this project locally:
    git clone https://github.com/Rajat75-tech/Updated_SCT_WD_TASK-01.git
 
 2. Navigate to the project folder:
+   ```bash
+   cd Updated_SCT_WD_TASK-01
 
-  ```bash
-  cd Updated_SCT_WD_TASK-01
 Open index.html in your browser to view the project.
+
 
 3. Open index.html in your browser to view the project.
 
@@ -70,3 +71,4 @@ GitHub: [Rajat75-tech](https://github.com/Rajat75-tech)
 ---
 
 🎯 **Thank you SkillCraft Technology for the opportunity!**
+
